@@ -8,7 +8,7 @@
 
 ## 📊 **Skills**
 * Methodology development and data analysis exploration
-* Python libraries Pandas and Matplotlib were employed to manipulate and visualize the data
+* manipulate and visualize the data with Python libraries : Pandas, Matplotlib, Seaborn
 
 ## 📎 **Data**
 
