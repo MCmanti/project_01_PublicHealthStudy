@@ -1,4 +1,4 @@
-# project_1-PublicHealthStudy
+# project_1_PublicHealthStudy
 
 🚀 **ABOUT**
 * This project focuses on conducting an extensive study on global nutrition, specifically addressing undernourishment worldwide.
