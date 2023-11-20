@@ -13,4 +13,4 @@
 📎 **DATA**
 
 Data Source: The data utilized in this analysis originates from the FAO (Food and Agriculture Organization of the United Nations) through the FAOSTAT database.
-There are 4 CSV files used in this project encompassing food availability, food insecurity, demographics (population), and food aid. You can find them in folder
+There are 4 CSV files used in this project encompassing food availability, food insecurity, demographics (population), and food aid. 
